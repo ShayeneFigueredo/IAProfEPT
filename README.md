@@ -8,9 +8,9 @@
 O **IAprofEPT** é uma proposta de Produto Educacional desenvolvida no âmbito do Programa de Pós-Graduação em Educação Matemática (PPGEM) da **Universidade Federal de Juiz de Fora (UFJF)**.
 
 - **Doutorando / Autor:** Maycon Luiz Amaral Magalhães
+- **Desenvolvimento de Software:** Shayene Figueredo & Samuel Amorim
 - **Orientador:** Prof. Dr. Eduardo Barrére
 - **Coorientador:** Prof. Dr. Manuel José Cabral dos Santos Reis
-- **Desenvolvimento:** 2026
 
 ---
 
