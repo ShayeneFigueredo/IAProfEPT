@@ -11,6 +11,7 @@ O **IAprofEPT** é uma proposta de Produto Educacional desenvolvida no âmbito d
 - **Desenvolvimento de Software:** Shayene Figueredo & Samuel Amorim
 - **Orientador:** Prof. Dr. Eduardo Barrére
 - **Coorientador:** Prof. Dr. Manuel José Cabral dos Santos Reis
+- **Infraestrutura & Hospedagem:** Servidores institucionais e domínio oficial fornecidos pela UFJF
 
 ---
 
